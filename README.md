@@ -69,8 +69,7 @@ processor.mode=advanced
 ---
 
 ### 3. Data Processing
-- Input sample data into the system.
-- The selected processor processes the data according to its specialization.
+- Main simulates processing of data after constructing the correct Data Processor.
 
 ---
 
